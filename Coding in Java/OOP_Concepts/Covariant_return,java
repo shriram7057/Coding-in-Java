@@ -1,0 +1,24 @@
+class A
+{
+    A get()
+    {
+        return this;
+    }
+    class B1 extends A
+    {
+        B1 get()
+        {
+            return this;
+        }
+        void{
+            System.out.println("Welcome to the covariant return type");
+        }
+    }
+    public static void main(String args[])
+    {
+        A a = new A();
+        A b = new B1();
+        a = b.get();
+        System.out.println(a);
+    }
+}
