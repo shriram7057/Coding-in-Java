@@ -26,6 +26,19 @@ You’ll find well-organised content covering:
 - Clean, readable code structure ready for you to fork, explore & extend  
 
 ---
+## 📣 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shriram-lahane-12b692385/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+  </a>
+
+
+  <a href="https://github.com/shriram7057" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
+  </a>
+</p>
+
 
 ## 🗂 Repository Structure
 
