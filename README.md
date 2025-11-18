@@ -1,4 +1,13 @@
-# ☕ Coding-in-Java
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="130" />
+</p>
+
+<h1 align="center">Coding in Java ☕🚀</h1>
+
+<p align="center">
+  Mastering DSA • Problem Solving • OOP • Competitive Programming  
+</p>
+
 
 Welcome to **Coding-in-Java** — a hands-on hub for exploring Java programming from core concepts to advanced applications.
 
